@@ -1,3 +1,4 @@
 # About haradesu0
-<img width=800 src="https://raw.githubusercontent.com/haradesu0/haradesu0/main/profile-summary-card-output/algolia/0-profile-details.svg"><br>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=haradesu0&theme=algolia&column=9"><br>
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haradesu0&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haradesu0&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+[![github-chart](https://github-chart.vercel.app/api?user=haradesu0)](https://github.com/haradesu0/github-chart)
