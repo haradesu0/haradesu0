@@ -4,6 +4,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haradesu0&theme=2077)
 
-[![github-chart](https://github-chart.vercel.app/api?user=haradesu0)](https://github.com/haradesu0/github-chart)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=haradesu0&theme=onedark)](https://github-profile-trophy.vercel.app/?username=haradesu0&theme=tokyonight)
